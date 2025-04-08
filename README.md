@@ -3,4 +3,4 @@ My latest games
 
 [Dice Game](https://teamnite-coding.github.io/DiceGame/)
 
-[Pong (in progress)](https://teamnite-coding.github.io/Pong/)
+[Pong (v1.0.0a)](https://teamnite-coding.github.io/Pong/)
